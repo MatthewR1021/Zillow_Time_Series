@@ -16,7 +16,16 @@ After creating that column we limited the data to the top 10 zipcodes in the Pho
 
 We then use an iterative approach to build time-series models for each zipcode . We utilize hyperparameter tuning, cross-validation and forecasting to select the highest zipcodes.
 
-# Results
-
-
+# Repository Structure
+```
+├── README.md                           <- The top-level README for reviewers of this project
+├── MAIN_Notebook.ipynb                 <- Narrative documentation of analysis in Jupyter Notebook
+├── Project_Presentation.pdf            <- PDF version of project presentation
+├── time_series_functions.py            <- Python script with functions to be called in MAIN Notebook
+├── Zillow Data                         <- Raw .csv source file from Zillow
+├── data                                <- Cleaned, exported .csv files to import in MAIN Notebook
+├── Zipcodes_notebooks                  <- Separate Notebooks showing completed models on each Zipcode
+├── Data_Exploration                    <- Separate Notebooks showing data cleaning and setup for models
+└── Obselete                            <- Older Notebooks that aren't necessary for final deliverables
+```
 
