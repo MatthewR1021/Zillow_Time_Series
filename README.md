@@ -16,6 +16,19 @@ After creating that column we limited the data to the top 10 zipcodes in the Pho
 
 We then use an iterative approach to build time-series models for each zipcode . We utilize hyperparameter tuning, cross-validation and forecasting to select the highest zipcodes.
 
+# Results
+After comparing the Zipcodes in the Phoenix,Arizona area we came to the conclusion that the best five zip codes were:
+85258 with a forecasted growth rate of 148.97%
+85018 with a forecasted growth rate of 7.65%
+85377 with a forecasted growth rate of 1.33%
+85262 with a forecasted growth rate of 1.06%
+85263 with a forecasted growth rate of .25%
+# Conclusion
+In conclusion The five Zipcodes we recommend above are the ones we would suggest you focus on in the Phoenix are and specifically those first two where there are more significant results.
+
+The results of our time-series models were pretty encouraging based on the time frame we had to work on this project. We were able to make the data workable and build useable models with significant results.
+
+If we did have more time we would have liked to look at the whole state of Arizona however we did not have time for that here so in the future we may revisit and analyze further.
 # Repository Structure
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
