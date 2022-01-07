@@ -34,7 +34,6 @@ If we did have more time we would have liked to look at the whole state of Arizo
 ├── time_series_functions.py            <- Python script with functions to be called in MAIN Notebook
 ├── Zillow Data                         <- Raw .csv source file from Zillow
 ├── Final_Notebooks                     <- Separate Notebooks showing completed models on each Zipcode
-├── Data_Exploration                    <- Separate Notebooks showing data cleaning and setup for models
 └── Obselete                            <- Older Notebooks that aren't necessary for final deliverables
 ```
 
