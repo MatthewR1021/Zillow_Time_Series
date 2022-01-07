@@ -30,7 +30,7 @@ If we did have more time we would have liked to look at the whole state of Arizo
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Main_Notebook.ipynb                 <- Narrative documentation of analysis in Jupyter Notebook
-├── Project_Presentation.pdf            <- PDF version of project presentation
+├── Zillow_Time_Series.pdf              <- PDF version of project presentation
 ├── time_series_functions.py            <- Python script with functions to be called in MAIN Notebook
 ├── Zillow Data                         <- Raw .csv source file from Zillow
 ├── data                                <- Cleaned, exported .csv files to import in MAIN Notebook
